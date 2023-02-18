@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `Seung Lee`,
     siteTitleAlt: `Seung Lee - Portfolio`,
     siteHeadline: `Seung Lee - Portfolio`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `https://portfolio29344.gatsbyjs.io/`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
